@@ -1,4 +1,4 @@
-<h1 style="text-align: center;">Wesbos JS 30 Challenge</h1>
+<h1 style="text-align: center;">🦄Wesbos JS 30 Challenge</h1>
 <p style="text-align: center;"><i>All JavaScript challenges in Wesbos' JS30 series.</i></p>
 <p style="text-align: center;"><i>(check <a href="https://absphreak.github.io/wesbosJS30/">this</a> out for working demos)</i></p>
 
