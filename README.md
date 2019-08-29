@@ -6,4 +6,4 @@
 2. [CSS Clock](https://absphreak.github.io/wesbosJS30/02cssClock) → Explained about how to make working transformations in CSS using JS
 3. [CSS Variables](https://absphreak.github.io/wesbosJS30/03cssVars) → Explained about how to manipulate CSS variables through JS
 4. [JS Arrays](https://absphreak.github.io/wesbosJS30/04JSarrays) → Array weight-lifting using JS's `map()`, `reduce()`, `filter()` & `sort()`
-5. [Image Gallery](https://absphreak.github.io/wesbosJS30/04JSarrays) → Explained how Flexbox works and how to manipulate it
+5. [Image Gallery](https://absphreak.github.io/wesbosJS30/05imageGallery) → Explained how Flexbox works and how to manipulate it
