@@ -7,3 +7,4 @@
 3. [CSS Variables](https://absphreak.github.io/wesbosJS30/03cssVars) → Explained about how to manipulate CSS variables through JS
 4. [JS Arrays](https://absphreak.github.io/wesbosJS30/04JSarrays) → Array weight-lifting using JS's `map()`, `reduce()`, `filter()` & `sort()`
 5. [Image Gallery](https://absphreak.github.io/wesbosJS30/05imageGallery) → Explained how Flexbox works and how to manipulate it
+6. [Type Ahead](https://absphreak.github.io/wesbosJS30/06typeAhead) → AJAX calls through JS and live search
