@@ -10,7 +10,4 @@
 6. [Type Ahead](https://absphreak.github.io/wesbosJS30/06typeAhead) → AJAX calls through JS and live search
 7. [JS Arrays 2](https://absphreak.github.io/wesbosJS30/07JSarrays2) → Array massaging with `some()`, `every()`, `find()`, `findIndex()`
 8. [Canvas Fun](https://absphreak.github.io/wesbosJS30/08Canvas) → Working with `<canvas>` and learning the basics of it
-
-
-
-
+9. [DevTools](https://absphreak.github.io/wesbosJS30/09devTools) → Working with `console` and learning different methods of it
