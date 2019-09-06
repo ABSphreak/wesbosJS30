@@ -1,0 +1,4 @@
+*.json
+*.eslintrc
+*.eslintrc.js
+node_modules
