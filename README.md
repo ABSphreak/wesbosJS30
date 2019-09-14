@@ -18,10 +18,3 @@
 14. [Reference & Copying](https://absphreak.github.io/wesbosJS30/14references) → Getting values of Array and Objects copied/referenced
 15. [Local Storage](https://absphreak.github.io/wesbosJS30/15localStore) → Using Local Storage and demonstrating Event Delegation
 16. [Local Storage](https://absphreak.github.io/wesbosJS30/15localStore) → Using Local Storage and demonstrating Event Delegation
-
-
-
-
-
-
-
