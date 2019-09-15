@@ -17,4 +17,4 @@
 13. [Slide Scroll](https://absphreak.github.io/wesbosJS30/13slideScroll) → Making images slide in and out according to the scroll
 14. [Reference & Copying](https://absphreak.github.io/wesbosJS30/14references) → Getting values of Array and Objects copied/referenced
 15. [Local Storage](https://absphreak.github.io/wesbosJS30/15localStore) → Using Local Storage and demonstrating Event Delegation
-16. [Local Storage](https://absphreak.github.io/wesbosJS30/15localStore) → Using Local Storage and demonstrating Event Delegation
+16. [Mouse Shadow](https://absphreak.github.io/wesbosJS30/16mouseShadow) → Using Local Storage and demonstrating Event Delegation
