@@ -18,6 +18,6 @@
 14. [Reference & Copying](https://absphreak.github.io/wesbosJS30/14references) → Getting values of Array and Objects copied/referenced
 15. [Local Storage](https://absphreak.github.io/wesbosJS30/15localStore) → Using Local Storage and demonstrating Event Delegation
 16. [Mouse Shadow](https://absphreak.github.io/wesbosJS30/16mouseShadow) → Using JS for making awesome shadow mouse interactions
-17. [Sort Without Articles](https://absphreak.github.io/wesbosJS30/17sortWOArticles) → Using JS for making awesome shadow mouse interactions
-18. [Sort Without Articles](https://absphreak.github.io/wesbosJS30/18arrayReduce) → Using JS for making awesome shadow mouse interactions
-19. [WebCam Fun](https://absphreak.github.io/wesbosJS30/19webcamFun) → Using JS for making awesome shadow mouse interactions
+17. [Sort Without Articles](https://absphreak.github.io/wesbosJS30/17sortWOArticles) → Sorting using JS without using Article methods
+18. [Array Reduce](https://absphreak.github.io/wesbosJS30/18arrayReduce) → Reducing the Array
+19. [WebCam Fun](https://absphreak.github.io/wesbosJS30/19webcamFun) → Using JS for some Webcam Fun
