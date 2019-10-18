@@ -57,6 +57,7 @@ function redEffect(pixels) {
   return pixels;
 }
 
+// Start the Video Camera
 getVideo();
 
 video.addEventListener("canPlay", paintToCanvas);
