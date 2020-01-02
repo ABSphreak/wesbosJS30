@@ -21,3 +21,4 @@
 17. [Sort Without Articles](https://absphreak.github.io/wesbosJS30/17sortWOArticles) → Sorting using JS without using Article methods
 18. [Array Reduce](https://absphreak.github.io/wesbosJS30/18arrayReduce) → Reducing the Array
 19. [WebCam Fun](https://absphreak.github.io/wesbosJS30/19webcamFun) → Using JS for some Webcam Fun
+19. [Speech Recognition](https://absphreak.github.io/wesbosJS30/20speechRecog) → Using JS for some Speech Recognition
