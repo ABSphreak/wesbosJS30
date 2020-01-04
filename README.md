@@ -11,7 +11,7 @@
 7. [JS Arrays 2](https://absphreak.github.io/wesbosJS30/07JSarrays2) → Array massaging with `some()`, `every()`, `find()`, `findIndex()`
 8. [Canvas Fun](https://absphreak.github.io/wesbosJS30/08Canvas) → Working with `<canvas>` and learning the basics of it
 9. [DevTools](https://absphreak.github.io/wesbosJS30/09devTools) → Working with `console` and learning different methods of it
-10. [`Shift` + Checkboxes](https://absphreak.github.io/wesbosJS30/10checkboxes) → Selecting multiple checkboxes while pressing shify key
+10. [`Shift` + Checkboxes](https://absphreak.github.io/wesbosJS30/10checkboxes) → Selecting multiple checkboxes while pressing shift key
 11. [HTML5 Video Player](https://absphreak.github.io/wesbosJS30/11htmlVideoPlayer) → Creating a video player with JS that has custom controls
 12. [Key Sequence Detection](https://absphreak.github.io/wesbosJS30/12keySeq) → Detecting Key sequences using JS
 13. [Slide Scroll](https://absphreak.github.io/wesbosJS30/13slideScroll) → Making images slide in and out according to the scroll
