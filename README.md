@@ -24,3 +24,4 @@
 20. [Speech Recognition](https://absphreak.github.io/wesbosJS30/20speechRecog) → Using JS for some Speech Recognition
 21. [Geolocation & Compass](https://absphreak.github.io/wesbosJS30/21geoLoc) → Using JS for some Geolocation and Compass
 22. [Focus Following Links](https://absphreak.github.io/wesbosJS30/22followAlong) → Using JS for creating fluid transition of focus following links
+23. [Text-to-Speech](https://absphreak.github.io/wesbosJS30/23tts) → Using JS for text to speech task
