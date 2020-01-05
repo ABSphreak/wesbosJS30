@@ -23,3 +23,4 @@
 19. [WebCam Fun](https://absphreak.github.io/wesbosJS30/19webcamFun) → Using JS for some Webcam Fun
 20. [Speech Recognition](https://absphreak.github.io/wesbosJS30/20speechRecog) → Using JS for some Speech Recognition
 21. [Geolocation & Compass](https://absphreak.github.io/wesbosJS30/21geoLoc) → Using JS for some Geolocation and Compass
+22. [Focus Following Links](https://absphreak.github.io/wesbosJS30/22followAlong) → Using JS for creating fluid transition of focus following links
