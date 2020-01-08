@@ -26,4 +26,5 @@
 22. [Focus Following Links](https://absphreak.github.io/wesbosJS30/22followAlong) → Using JS for creating fluid transition of focus following links
 23. [Text-to-Speech](https://absphreak.github.io/wesbosJS30/23tts) → Using JS for text to speech task
 24. [Sticky Navigation bar](https://absphreak.github.io/wesbosJS30/24stickyNav) → Using JS for creating Sticky navigation bar
-25. [Sticky Navigation bar](https://absphreak.github.io/wesbosJS30/24stickyNav) → Demonstration of Event Propagation and Bubling
+25. [Event Propagation](https://absphreak.github.io/wesbosJS30/25eventProp) → Demonstration of Event Propagation and Bubling
+26. [Follow Along Nav](https://absphreak.github.io/wesbosJS30/26followAlongNav) → Using JS to create a follow along Navigation bar
