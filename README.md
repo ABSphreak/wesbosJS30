@@ -30,3 +30,4 @@
 26. [Follow Along Nav](https://absphreak.github.io/wesbosJS30/26followAlongNav) → Using JS to create a follow along Navigation bar
 27. [Draggable Scroll](https://absphreak.github.io/wesbosJS30/27draggableScroll) → Using JS to create a Draggable Scroll List
 28. [Video Speed Scrubber](https://absphreak.github.io/wesbosJS30/28videoSpeed) → Using JS to create a Video Speed Scrubber
+29. [Whack-A-Mole Game](https://absphreak.github.io/wesbosJS30/30whackAMole) → Using JS to create a Whack-A-Mole Game
