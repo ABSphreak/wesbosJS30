@@ -32,3 +32,10 @@
 28. [Video Speed Scrubber](https://absphreak.github.io/wesbosJS30/28videoSpeed) → Using JS to create a Video Speed Scrubber
 29. [Simple Timer](https://absphreak.github.io/wesbosJS30/29timer) → Using JS to create a Clock Timer
 30. [Whack-A-Mole Game](https://absphreak.github.io/wesbosJS30/30whackAMole) → Using JS to create a Whack-A-Mole Game
+
+---
+
+<h2 align="center"><a href="#navigation">⇧</a></h2>
+<p align="center">Made with ❤ by <a href="https://abhinavsharma.dev/">Abhinav Sharma</a></p>
+<p align="center"><i>Please check the commit history for this repository to see changelog.</i></p>
+<p align="center"><i>Licensed under <a href="/LICENSE">MIT License</a></i></p>
