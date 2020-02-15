@@ -1,6 +1,6 @@
-<h1 style="text-align: center;">🦄Wesbos JS 30 Challenge</h1>
-<p style="text-align: center;"><i>All JavaScript challenges in Wesbos' JS30 series.</i></p>
-<p style="text-align: center;"><i>(check <a href="https://absphreak.github.io/wesbosJS30/">this</a> out for working demos)</i></p>
+<h1 align="center">🦄Wesbos JS 30 Challenge</h1>
+<p align="center"><i>All JavaScript challenges in Wesbos' JS30 series.</i></p>
+<p align="center"><i>(check <a href="https://absphreak.github.io/wesbosJS30/">this</a> out for working demos)</i></p>
 
 1. [Drum Kit](https://absphreak.github.io/wesbosJS30/01drumKit) → Explained about how to manipulate CSS properties through events
 2. [CSS Clock](https://absphreak.github.io/wesbosJS30/02cssClock) → Explained about how to make working transformations in CSS using JS
@@ -30,4 +30,10 @@
 26. [Follow Along Nav](https://absphreak.github.io/wesbosJS30/26followAlongNav) → Using JS to create a follow along Navigation bar
 27. [Draggable Scroll](https://absphreak.github.io/wesbosJS30/27draggableScroll) → Using JS to create a Draggable Scroll List
 28. [Video Speed Scrubber](https://absphreak.github.io/wesbosJS30/28videoSpeed) → Using JS to create a Video Speed Scrubber
-29. [Whack-A-Mole Game](https://absphreak.github.io/wesbosJS30/30whackAMole) → Using JS to create a Whack-A-Mole Game
+29. [Simple Timer](https://absphreak.github.io/wesbosJS30/29timer) → Using JS to create a Clock Timer
+30. [Whack-A-Mole Game](https://absphreak.github.io/wesbosJS30/30whackAMole) → Using JS to create a Whack-A-Mole Game
+
+---
+<p align="center">Made with ❤ by <a href="https://abhinavsharma.dev/">Abhinav Sharma</a></p>
+<p align="center"><i>Please check the commit history for this repository to see changelog.</i></p>
+<p align="center"><i>Licensed under <a href="/LICENSE">MIT License</a></i></p>
