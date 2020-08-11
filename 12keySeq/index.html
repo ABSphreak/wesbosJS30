@@ -5,15 +5,15 @@
     <title>Key Detection</title>
     <script
       type="text/javascript"
-      src="http://www.cornify.com/js/cornify.js"
+      src="https://www.cornify.com/js/cornify.js"
     ></script>
   </head>
   <body>
-    <h3 style="text-align: center">Type P-H-R-E-A-K and press ⏎</h3>
+    <h3 style="text-align: center;">Type P-H-R-E-A-K and press ⏎</h3>
     <script>
       const pressed = [];
       const secretCode = "phreak";
-      window.addEventListener("keyup", e => {
+      window.addEventListener("keyup", (e) => {
         pressed.push(e.key);
         pressed.splice(
           -secretCode.length - 1,
